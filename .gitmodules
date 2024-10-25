@@ -1,0 +1,3 @@
+[submodule "CamouflageGeneration/camogen"]
+	path = CamouflageGeneration/camogen
+	url = https://github.com/glederrey/camogen.git
